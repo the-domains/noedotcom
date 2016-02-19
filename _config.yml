@@ -1,0 +1,28 @@
+name: noedotcom
+favicon: null
+layout_spectrum: 0.5923705329187214
+typography_spectrum: 0.3013269789516926
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.09978713211603463
+  lightness: 0.3131933663971722
+  saturation: 0.8874014236498624
+  rhythmicContrast: 0.36728255450725555
+purpose: []
