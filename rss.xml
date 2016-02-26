@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[noedotcom]]></title>
         <description><![CDATA[noedotcom]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/noedotcom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 16:43:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 14:48:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/noedotcom/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Athlete of the Month | Maria]]></title>
+            <description><![CDATA[<article><h1>Athlete of the Month | Maria</h1><p>CrossFit Stamina - http://www.crossfitstamina.com/ May Athlete of the Month - Maria Bedolla Read moe about Maria by clicking here - http://www.crossfitstamina.com/#!May-Athlete-of-the-Month-Maria-Bedolla/czvt/5546e4e80cf2836c8813ef25</p><img src="http://img.youtube.com/vi/videoseries/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=mSbZe-OfKZw&amp;list=PLKgvs-CbZdHviVMOEZ2-wYzL9HJWE9NKJ&amp;index=6</link>
+            <guid isPermaLink="false">017e7add-49ce-4d2d-92ba-c5f0a2a0c3da</guid>
+            <pubDate>Fri, 26 Feb 2016 14:48:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5ec9c08-e3f6-4c2b-8b65-91c7fd08e58a.png">]]></description>
-            <link>undefined1d853c55-36a6-42e8-9a6c-3a77adaf1e1f/index.html</link>
+            <link>https://thegrid.ai/noedotcom/1d853c55-36a6-42e8-9a6c-3a77adaf1e1f/index.html</link>
             <guid isPermaLink="false">1d853c55-36a6-42e8-9a6c-3a77adaf1e1f</guid>
             <pubDate>Fri, 19 Feb 2016 16:42:56 GMT</pubDate>
         </item>
